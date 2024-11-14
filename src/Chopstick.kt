@@ -1,0 +1,1 @@
+data class Chopstick(var isTaken: Boolean = false)
